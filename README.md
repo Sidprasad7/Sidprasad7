@@ -76,15 +76,16 @@ I'm not "exploring AI" — I've shipped it. Here's the short version:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 By the Numbers
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sidprasad7&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=1A56A0&icon_color=1A56A0&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidprasad7&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=1A56A0&text_color=c9d1d9" />
-
-</div>
-
+| | |
+|---|---|
+| 🌐 Enterprise websites delivered | **35+** |
+| ⚡ Performance improvement achieved | **up to 40%** |
+| 🔁 Faster dev cycles via Helix architecture | **30–40%** |
+| 🤖 Manual workload reduced via AI bot | **60–70%** |
+| 📉 Production bugs reduced at IDX | **25%** |
+| 📅 Years of international experience | **7+** |
 ---
 
 ## 🌏 Beyond the Code
