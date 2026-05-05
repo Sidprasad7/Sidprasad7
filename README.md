@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56A0&height=120&section=header&text=Siddharth%20Prasad&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Frontend%20%26%20AI%20Engineer&descSize=18&descAlignY=85&descColor=a8c4e8" width="100%"/>
+# 👋 Hi, I'm Siddharth Prasad
 
 </div>
 
