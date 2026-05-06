@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     SIDDHARTH PRASAD — GitHub Profile README
+     SIDDHARTH PRASAD - GitHub Profile README
      Repo: Sidprasad7/Sidprasad7  →  displays on your profile page
      ═══════════════════════════════════════════════════════════════ -->
 
@@ -25,12 +25,12 @@
 
 ## 🧠 What I Actually Build
 
-I'm not "exploring AI" — I've shipped it. Here's the short version:
+I'm not "exploring AI" - I've shipped it. Here's the short version:
 
-- 🦺 **Computer Vision** — Real-time safety gear detection (helmets, harnesses, carabiners) using **YOLOv8 + OpenCV**, deployed on live camera feeds with automated pass/fail logic
-- 🤖 **AI Automation** — WhatsApp chatbot (n8n + Meta API + OpenAI) that cut client manual workload by **60–70%**
-- 🌐 **Enterprise Frontend** — **35+ production websites** on Sitecore MVC & Drupal; load times improved up to **40%**, dev cycles cut **30–40%** through reusable Helix architecture
-- 🛒 **E-Commerce** — Shopify stores with optimised checkout UX and mobile-first performance
+- 🦺 **Computer Vision** - Real-time safety gear detection (helmets, harnesses, carabiners) using **YOLOv8 + OpenCV**, deployed on live camera feeds with automated pass/fail logic
+- 🤖 **AI Automation** - WhatsApp chatbot (n8n + Meta API + OpenAI) that cut client manual workload by **60–70%**
+- 🌐 **Enterprise Frontend** - **35+ production websites** on Sitecore MVC & Drupal; load times improved up to **40%**, dev cycles cut **30–40%** through reusable Helix architecture
+- 🛒 **E-Commerce** - Shopify stores with optimised checkout UX and mobile-first performance
 
 ---
 
@@ -89,11 +89,11 @@ I'm not "exploring AI" — I've shipped it. Here's the short version:
 
 ## 🌏 Beyond the Code
 
-- 🏆 **Unleash Global Innovation Fellow** — Selected among top global innovators, Singapore (UN SDG focus)
-- 🇮🇳 **Indian Delegate** — World Youth Festival, Russia (20,000+ global youth leaders)
-- 🌱 **Global Ambassador** — Thought For Food NGO (global food security initiative)
-- 🥇 Winner — Green Soul Competition, LDCE Ahmedabad
-- 🤝 **Ethical Hacking** certified — IIT Bombay
+- 🏆 **Unleash Global Innovation Fellow** - Selected among top global innovators, Singapore (UN SDG focus)
+- 🇮🇳 **Indian Delegate** - World Youth Festival, Russia (20,000+ global youth leaders)
+- 🌱 **Global Ambassador** - Thought For Food NGO (global food security initiative)
+- 🥇 Winner - Green Soul Competition, LDCE Ahmedabad
+- 🤝 **Ethical Hacking** certified - IIT Bombay
 
 ---
 
