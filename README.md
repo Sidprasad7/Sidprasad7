@@ -16,8 +16,8 @@
 ### 7 years shipping enterprise products · AI tools that work in production · Based in India
 
 [![Email](https://img.shields.io/badge/Email-Sidprasad07%40gmail.com-1A56A0?style=flat-square&logo=gmail&logoColor=white)](mailto:Sidprasad07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=flat-square&logo=behance&logoColor=white)](https://behance.net/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-prasad/)
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/sidprasad)
 
 </div>
 
