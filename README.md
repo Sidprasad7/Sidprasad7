@@ -40,8 +40,8 @@ I'm not "exploring AI" — I've shipped it. Here's the short version:
 |--------|-------|--------------|
 | [🦺 Safety Gear Detector](https://github.com/Sidprasad7) | Python · YOLOv10 · OpenCV | Real-time helmet/harness/carabiner detection with pass/fail output |
 | [🤖 WhatsApp AI Bot](https://github.com/Sidprasad7/chatbot) | n8n · Meta API · OpenAI | Fully automated customer interaction bot with AI fallback logic |
-| [🏕️ Manali Swing](https://github.com/Sidprasad7/manaliswing) | HTML · CSS | Adventure sport activity landing page |
-| [🏠 Him Homestay](https://github.com/Sidprasad7/himhomestay) | SCSS | Clean hospitality UI |
+| [🏕️ Manali Swing](https://github.com/Sidprasad7/manaliswing) | HTML · CSS · JS | Adventure sport activity landing page |
+| [🏠 Him Homestay](https://github.com/Sidprasad7/himhomestay) | SCSS · HTML · CSS · JS | Clean hospitality UI |
 
 ---
 
