@@ -99,7 +99,7 @@ I'm not "exploring AI" - I've shipped it. Here's the short version:
 
 <div align="center">
 
-*Currently open to senior frontend & AI engineer roles — remote-friendly.*
+*Currently open to senior frontend & AI engineer roles - remote-friendly.*
 **Let's build something that ships.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A56A0&height=80&section=footer" width="100%"/>
