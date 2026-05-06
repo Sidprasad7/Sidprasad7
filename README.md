@@ -27,7 +27,7 @@
 
 I'm not "exploring AI" — I've shipped it. Here's the short version:
 
-- 🦺 **Computer Vision** — Real-time safety gear detection (helmets, harnesses, carabiners) using **YOLOv10 + OpenCV**, deployed on live camera feeds with automated pass/fail logic
+- 🦺 **Computer Vision** — Real-time safety gear detection (helmets, harnesses, carabiners) using **YOLOv8 + OpenCV**, deployed on live camera feeds with automated pass/fail logic
 - 🤖 **AI Automation** — WhatsApp chatbot (n8n + Meta API + OpenAI) that cut client manual workload by **60–70%**
 - 🌐 **Enterprise Frontend** — **35+ production websites** on Sitecore MVC & Drupal; load times improved up to **40%**, dev cycles cut **30–40%** through reusable Helix architecture
 - 🛒 **E-Commerce** — Shopify stores with optimised checkout UX and mobile-first performance
@@ -38,7 +38,7 @@ I'm not "exploring AI" — I've shipped it. Here's the short version:
 
 | Project | Stack | What it does |
 |--------|-------|--------------|
-| [🦺 Safety Gear Detector](https://github.com/Sidprasad7) | Python · YOLOv10 · OpenCV | Real-time helmet/harness/carabiner detection with pass/fail output |
+| [🦺 Safety Gear Detector](https://github.com/Sidprasad7) | Python · YOLOv8 · OpenCV | Real-time helmet/harness/carabiner detection with pass/fail output |
 | [🤖 WhatsApp AI Bot](https://github.com/Sidprasad7/chatbot) | n8n · Meta API · OpenAI | Fully automated customer interaction bot with AI fallback logic |
 | [🏕️ Manali Swing](https://github.com/Sidprasad7/manaliswing) | HTML · CSS · JS | Adventure sport activity landing page |
 | [🏠 Him Homestay](https://github.com/Sidprasad7/himhomestay) | SCSS · HTML · CSS · JS | Clean hospitality UI |
